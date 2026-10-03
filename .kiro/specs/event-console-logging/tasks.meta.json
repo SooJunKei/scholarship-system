@@ -1,0 +1,175 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "Config file loads without errors": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738002419
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738012455
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738352063
+      }
+    ],
+    "Listener captures all event types": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738002545
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738356585
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738356990
+      }
+    ],
+    "Middleware injects JavaScript correctly": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738002660
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738357442
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738357606
+      }
+    ],
+    "Framework registrations complete without errors": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738002780
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738357963
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738358804
+      }
+    ],
+    "All tests pass": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738002884
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738358980
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738359257
+      }
+    ],
+    "Browser console displays output as expected": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738002992
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738359529
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738359777
+      }
+    ],
+    "Feature can be enabled/disabled via config": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738003080
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738360310
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738360545
+      }
+    ],
+    "Disabled feature has zero overhead": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738003166
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738360826
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738361253
+      }
+    ],
+    "No breaking changes to existing functionality": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738003248
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738361536
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738361896
+      }
+    ],
+    "All acceptance criteria from requirements met": [
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738003330
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738362267
+      },
+      {
+        "executionId": "5ea66286-9777-4a84-86b9-533bef53d879",
+        "chatSessionId": "sess_8345932e-e37d-43da-9c96-535580db4df6",
+        "timestamp": 1789738362580
+      }
+    ]
+  }
+}
